@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694036382 source:d:\cc50\exercicio_mario_facil\main.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

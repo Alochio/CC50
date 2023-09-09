@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694041182 source:d:\cc50\exercicio_dinheiro_facil\questão03.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

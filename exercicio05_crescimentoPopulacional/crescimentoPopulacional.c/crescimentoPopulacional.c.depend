@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694063787 source:d:\cc50\exercicio05_crescimentopopulacional\crescimentopopulacional.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
