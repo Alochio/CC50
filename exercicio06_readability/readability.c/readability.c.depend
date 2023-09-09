@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1694235851 source:d:\cc50\exercicio06_readability\readability.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1694236885 d:\cc50\exercicio06_readability\readability.c\funcoes.h
+
+1694237499 source:d:\cc50\exercicio06_readability\readability.c\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+
