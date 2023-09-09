@@ -1,0 +1,12 @@
+$ ./caesar 1
+plaintext:  HELLO
+ciphertext: IFMMP
+
+$ ./caesar 13
+plaintext:  hello, world
+ciphertext: uryyb, jbeyq
+
+$ ./caesar 13
+plaintext:  be sure to drink your Ovaltine
+ciphertext: or fher gb qevax lbhe Binygvar
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1694291298 source:d:\cc50\exercicio07_caesar\caesar\caesar.c
+	<stdio.h>
+	<stdlib.h>
+
+1694283587 source:d:\cc50\exercicio07_caesar\caesar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"caesar.h"
+
+1694283572 d:\cc50\exercicio07_caesar\caesar\caesar.h
+
