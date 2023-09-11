@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1694307608 source:d:\cc50\exercicio08_scrabble\substituição\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+
+1694310895 source:d:\cc50\exercicio08_scrabble\substituição\substituicao.c
+	<stdio.h>
+	<stdlib.h>
+
+1694309813 source:d:\cc50\exercicio08_scrabble\substituição\main.c
+	<stdio.h>
+	<stdlib.h>
+	"substituicao.h"
+
+1694309835 d:\cc50\exercicio08_scrabble\substituição\substituicao.h
+
