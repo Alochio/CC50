@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694570101 source:d:\cc50\exercicio09_scrabblegame\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
